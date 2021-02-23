@@ -10,7 +10,7 @@ education:
     year: 2020
   - course: Minor in Mathematics
     institution: University of North Carolina at Chapel Hill
-    year: 20
+    year: 2020
 email: ""
 highlight_name: false
 interests:
