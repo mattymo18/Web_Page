@@ -39,8 +39,8 @@ experience:
     company: Finra
     company_url: 'https://www.finra.org/#/'
     location: New York, NY
-    date_start: '2019-08-10'
-    date_end: '2019-05-28'
+    date_start:'2019-05-28'
+    date_end:'2019-08-10'
     description: |2-
       Responsibilities include:
       
@@ -52,8 +52,8 @@ experience:
     company: YMCA Camp Kanata
     company_url: 'https://www.campkanata.org/'
     location: Wake Forest, NC
-    date_start: '2018-08-10'
-    date_end: '2018-05-10'
+    date_start:'2018-05-10'
+    date_end:'2018-08-10'
     description: |2-
       Responsibilities include:
       
