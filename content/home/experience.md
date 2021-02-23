@@ -31,7 +31,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Navigating Kenai River hunting trout
+        * Navigating Kenai River hunting Trout and Dolly Varden
         * Walk-in trips for Trout and Grayling
         * Scenic Rafting Trips
         
