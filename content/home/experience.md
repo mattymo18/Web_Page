@@ -44,8 +44,8 @@ experience:
     description: |2-
       Responsibilities include:
       
-      * Automate data cleaning task to increase efficiency and ensure precise results
-      * Analyze web-app data to enhance app proficiency usability
+      * Automated data cleaning tasks to increase efficiency and ensure precise results
+      * Analyzed web-app data to enhance app proficiency and usability
       * Ad Hoc data cleaning and manipulation tasks
       
   - title: Daily Programs Coordinator
