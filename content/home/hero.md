@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Matthew Christopher Johnson
-hero_media: MJ_Logo.png
+hero_media: Matty_J_Logo.png
 cta:
   label: '**Github**'
   url: https://github.com/mattymo18
