@@ -30,9 +30,9 @@ experience:
     date_end: ''
     description: |2-
         
-        * Navigating Kenai River hunting Trout and Dolly Varden
-        * Walk-in trips for Trout and Grayling
-        * Scenic Rafting Trips
+        * Navigated Kenai River hunting Trout and Dolly Varden guarenteeing client safety and enjoyment
+        * Coordinated shuttle logistics for boat extraction ensuring precise trip timeing 
+        * Kept guide inventory of rods, reels, waders, and boots to maintain organization for daily outings
         
   - title: Intern, Advanced Analytics Team
     company: FINRA

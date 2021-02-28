@@ -21,9 +21,21 @@ feature:
   icon_pack: fab
   name: R
 - description:
-  icon: chart-line
+  icon: chart-area
   icon_pack: fas
   name: Statistics
+- description:
+  icon: project-diagram
+  icon_pack: fas
+  name: Machine Learning
+- description:
+  icon: github
+  icon_pack: fab
+  name: Git
+- description:
+  icon: microsoft
+  icon_pack: fab
+  name: Microsoft Office
 - description:
   icon: fish
   icon_pack: fas
