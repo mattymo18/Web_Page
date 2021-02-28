@@ -26,12 +26,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/Matt_mjohnson
 - icon: github
   icon_pack: fab
   link: https://github.com/mattymo18

@@ -29,24 +29,23 @@ experience:
     date_start: '2020-03-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
         
         * Navigating Kenai River hunting Trout and Dolly Varden
         * Walk-in trips for Trout and Grayling
         * Scenic Rafting Trips
         
   - title: Intern, Advanced Analytics Team
-    company: Finra
+    company: FINRA
     company_url: 'https://www.finra.org/#/'
     location: New York, NY
     date_start: '2019-05-28'
     date_end: '2019-08-10'
     description: |2-
-      Responsibilities include:
       
-      * Automated data cleaning tasks to increase efficiency and ensure precise results
-      * Analyzed web-app data to enhance app proficiency and usability
-      * Ad Hoc data cleaning and manipulation tasks
+      * Advanced Analytics Team is focused on long term analytic problem solving to support market regulation and member supervision
+      * 1 of 4 interns (37 total) selected to receive special recognition for hard work and contribution
+      * Built automated data processing tools in R to increase efficiency and ensure precise results
+      * Analyzed web app data to enhance app proficiency and usability assuring beneficial experience for users 
       
   - title: Daily Programs Coordinator
     company: YMCA Camp Kanata
@@ -55,7 +54,6 @@ experience:
     date_start: '2018-05-10'
     date_end: '2018-08-10'
     description: |2-
-      Responsibilities include:
       
       * Coordinated 62 activities daily for 80 counselors ensuring 250+ campers learn diverse sets of skills ranging from archery and hiking to kayaking and swimming
       * Spearheaded the creation of 5 new activities creating an enhanced camp curriculum to better meet needs
