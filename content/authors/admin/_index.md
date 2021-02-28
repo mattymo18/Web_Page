@@ -25,7 +25,7 @@ role: MS Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: https://mail.google.com/mail/u/?authuser=johnson.matt1818@gmail.com
+  link: mailto:johnson.matt1818@gmail.com
 - icon: github
   icon_pack: fab
   link: https://github.com/mattymo18
