@@ -34,7 +34,7 @@ experience:
         * Performed back office sales and scheduling to ensure break-even operations during Covid-19 pandemic
         * Coordinated trip logistics to maximize efficiency of guide services and client engagement
         
-  - title: Intern, Advanced Analytics Team
+  - title: Intern, Advanced Analytics
     company: FINRA
     company_url: 'https://www.finra.org/#/'
     location: New York, NY
@@ -42,10 +42,10 @@ experience:
     date_end: '2019-08-10'
     description: |2-
       
-      * Advanced Analytics Team is focused on long term analytic problem solving to support market regulation and member supervision
+      * Developed automated data processing tools in R to increase efficiency and ensure precise results
+      * Analyzed web app data to enhance app proficiency and usability assuring beneficial experience for users
+      * Provided Ad Hoc data cleaning and manipulation to assist analysts with daily tasks
       * 1 of 4 interns (37 total) selected to receive special recognition for hard work and contribution
-      * Built automated data processing tools in R to increase efficiency and ensure precise results
-      * Analyzed web app data to enhance app proficiency and usability assuring beneficial experience for users 
       
   - title: Daily Programs Coordinator
     company: YMCA Camp Kanata
