@@ -30,9 +30,9 @@ experience:
     date_end: ''
     description: |2-
         
-        * Navigated Kenai River hunting Trout and Dolly Varden guaranteeing client safety and enjoyment
-        * Coordinated shuttle logistics for boat extraction ensuring precise trip timing 
-        * Kept guide inventory of rods, reels, waders, and boots to maintain organization for daily outings
+        * Guided resort clients on hiking and fishing excursions guaranteeing customer safety and satisfaction
+        * Performed back office sales and scheduling to ensure break-even operations during Covid-19 pandemic
+        * Coordinated trip logistics to maximize efficiency of guide services and client engagement
         
   - title: Intern, Advanced Analytics Team
     company: FINRA
