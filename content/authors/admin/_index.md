@@ -44,4 +44,4 @@ I specialize in the R coding language to build models and graphics designed to a
 
 Sports analytics has become a major part of my research and is the subject of my thesis. I hope to model the sport of lacrosse in order to help coaches make difficult decisions by leveraging data driven insights. Analytics can help coaches breakdown the sport and gain an edge over opponents. 
 
-{{% staticref "media/MJ_Resume.pdf" "newtab" %}}Download my Resume{{% /staticref %}}
+{{% staticref "media/MJ_Resume.pdf" "newtab" %}}Resume{{% /staticref %}}
