@@ -43,3 +43,5 @@ I completed my undergraduate degree majoring in Statistics and Analytics with a 
 I specialize in the R coding language to build models and graphics designed to assist with strategic communication between data scientists and people outside the field. I’ve also used Rshiny to create applications for displaying analyses and conveying results.
 
 Sports analytics has become a major part of my research and is the subject of my thesis. I hope to model the sport of lacrosse in order to help coaches make difficult decisions by leveraging data driven insights. Analytics can help coaches breakdown the sport and gain an edge over opponents. 
+
+{{% staticref "media/MJ_Resume.pdf" "newtab" %}}Download my Resume{{% /staticref %}}
