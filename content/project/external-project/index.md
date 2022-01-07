@@ -1,8 +1,8 @@
 ---
-date: "2021-02-22 T00:00:00Z"
-external_link: https://github.com/mattymo18/BIOS-611-ProJ-1
-summary: This project will shed light on what combine stats are most important for deciding when a player should be drafted dependent on the position of the player. Using predictive modeling techniques and machine learning, we will attempt to predict when a player will get drafted based on their performance in the combine and their position.
+date: "2022-01-07 T00:00:00Z"
+external_link: https://www.kaggle.com/mattymo18/regularized-adjusted-field-position-contribution
+summary: This project introduces a new metric for evaluating player contribution during a punt return called Regularized Adjusted Field Position Contribution. We follow a similar methodology as in the creation of Basketball's metric Adjusted Plus-Minus. This notebook was submitted to the 2022 NFL Big Data Bowl. 
 tags:
 - Demo
-title: NFL Draft
+title: NFL Big Data Bowl 2022
 ---
