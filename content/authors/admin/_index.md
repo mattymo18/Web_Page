@@ -19,9 +19,9 @@ interests:
 - Data Science
 - Fishing
 organizations:
-- name: University of North Carolina at Chapel Hill
-  url: https://www.unc.edu/
-role: MS Student
+- name: The Johns Hopkins University Applied Physics Lab
+  url: https://www.jhuapl.edu/
+role: Data Scientist
 social:
 - icon: envelope
   icon_pack: fas
