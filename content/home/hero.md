@@ -16,7 +16,7 @@ advanced:
   css_class: fullscreen
 ---
 
-**Data Scientist Johns Hopkins Applied Physics Lab**
+**Data Scientist Johns Hopkins Applied Physics Lab** \
 **MS in Data Science UNC Chapel Hill**
 
 **Selected Course Work**: Machine Learning, Data Science, Stochastic Modeling, Applied Statistics, Sports Analytics.
