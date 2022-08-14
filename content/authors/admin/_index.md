@@ -36,12 +36,14 @@ superuser: true
 title: Matt Johnson
 ---
 
-I am a Masters student in the Data Science and Analytics program at the University of North Carolina in Chapel Hill with a passion for Sports Analytics.
+I completed my MS in the Data Science and Analytics (2022) and my BS in Statistics (2020) at the University of North Carolina in Chapel Hill in May 2022.
 
-I completed my undergraduate degree majoring in Statistics and Analytics with a minor in Mathematics from the University of North Carolina in Chapel Hill.
+I use R, Python, and MATLAB to build models and graphics designed to assist with strategic communication between data scientists and people outside the field. 
 
-I specialize in R to build models and graphics designed to assist with strategic communication between data scientists and people outside the field. I’ve also utilized Rshiny to create applications for displaying analyses and conveying results.
+I have a passion for Sports Analytics especially in the NFL. I participated in the 2022 NFL Big Data Bowl and developed new metrics to assess player contribution during punts. 
 
-Sports analytics has become a major part of my research and is the subject of my thesis. I hope to use [nflfastR](https://cran.r-project.org/web/packages/nflfastR/readme/README.html) to gain a deeper understanding of professional football and to predict game outcomes, analyze players, and help on field decision makers leverage data driven insights. 
+I love the outdoors and spend most of my time outside of programming fly fishing. I previoulsy worked as a fishing guide on the Kenai Peninsula for Trout and Salmon. 
+
+Please check out my Resume!
 
 {{% staticref "media/MJ_Resume.pdf" "newtab" %}}Resume{{% /staticref %}}
