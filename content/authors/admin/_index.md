@@ -44,6 +44,8 @@ I have a passion for Sports Analytics especially in the NFL. I participated in t
 
 I love the outdoors and spend most of my time outside of programming fly fishing. I previoulsy worked as a fishing guide on the Kenai Peninsula for Trout and Salmon. 
 
-Please check out my Resume!
+Please check out my Resume and Thesis!
 
 {{% staticref "media/MJ_Resume.pdf" "newtab" %}}Resume{{% /staticref %}}
+
+{{% staticref "media/MJ_Thesis.pdf" "newtab" %}}Thesis{{% /staticref %}}
