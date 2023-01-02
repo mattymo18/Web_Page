@@ -18,4 +18,6 @@ advanced:
 
 **Data Scientist**
 
-**Selected Course Work**: Machine Learning, Data Science, Stochastic Modeling, Applied Statistics, Sports Analytics.
+Johns Hopkins University Applied Physics Laboratory 
+
+**UNC Chapel Hill Selected Course Work**: Machine Learning, Data Science, Stochastic Modeling, Applied Statistics, Sports Analytics.
