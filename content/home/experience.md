@@ -22,12 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Data Scientist
+    company: The Johns Hopkins University Applied Physics Lab
+    company_url: https://www.jhuapl.edu/
+    location: Laurel, MA
+    date_start: '2022-08-29'
+    date_end: ''
+    description: |2-
+        
+        * Developed data driven solutions to diverse problems with MATLAB, R, and Python
+        * Built custom graphics to effectively convey scenarios to stakeholders
+        * Tested and evaluated systems to ensure capabilities are in accordance with technical specifications
+        
   - title: Fly Fishing Guide
     company: Drifters Lodge
     company_url: 'https://www.drifterslodge.com/'
     location: Cooper Landing, Ak
     date_start: '2020-03-01'
-    date_end: ''
+    date_end: '2022-08-20'
     description: |2-
         
         * Guided resort clients on hiking and fishing excursions guaranteeing customer safety and satisfaction
