@@ -37,9 +37,9 @@ feature:
   icon_pack: fab
   name: Microsoft Office
 - description:
-  icon: calculator-simple
+  icon: function
   icon_pack: fas
-  name: MATLAB
+  name: MATLAB1
 - description:
   icon: python
   icon_pack: fab
