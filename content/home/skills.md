@@ -38,7 +38,7 @@ feature:
   name: Microsoft Office
 - description:
   icon: abacus
-  icon_pack: fab
+  icon_pack: fas
   name: MATLAB
 - description:
   icon: python
@@ -48,7 +48,7 @@ feature:
   icon: docker
   icon_pack: fab
   name: Docker
-  - description:
+- description:
   icon: fish
   icon_pack: fas
   name: Fly Fishing
