@@ -39,7 +39,7 @@ feature:
 - description:
   icon: calculator
   icon_pack: fas
-  name: MATLAB2
+  name: MATLAB
 - description:
   icon: python
   icon_pack: fab
