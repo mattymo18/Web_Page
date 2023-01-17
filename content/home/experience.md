@@ -30,7 +30,7 @@ experience:
     date_end: ''
     description: |2-
         
-        * Developed data driven solutions to diverse problems with MATLAB, R, and Python
+        * Designed data driven solutions to diverse problems with MATLAB, R, and Python
         * Built custom graphics to effectively convey scenarios to stakeholders
         * Tested and evaluated systems to ensure capabilities are in accordance with technical specifications
         
