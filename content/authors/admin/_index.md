@@ -32,6 +32,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/matt-johnson-7a9913142/
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/matty_j_ak/
 superuser: true
 title: Matt Johnson
 ---
