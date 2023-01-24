@@ -19,7 +19,7 @@ interests:
 - Data Science
 - Fishing
 organizations:
-- name: The Johns Hopkins University Applied Physics Lab
+- name: The Johns Hopkins University Applied Physics Laboratory
   url: https://www.jhuapl.edu/
 role: Data Scientist
 social:
