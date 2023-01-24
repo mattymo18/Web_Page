@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Data Scientist
-    company: The Johns Hopkins University Applied Physics Lab
+    company: The Johns Hopkins University Applied Physics Laboratory
     company_url: https://www.jhuapl.edu/
     location: Laurel, MA
     date_start: '2022-08-29'
