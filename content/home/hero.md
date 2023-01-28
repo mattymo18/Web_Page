@@ -20,4 +20,7 @@ advanced:
 
 Johns Hopkins University Applied Physics Laboratory 
 
-**UNC Chapel Hill Selected Course Work**: Machine Learning, Data Science, Stochastic Modeling, Applied Statistics, Sports Analytics.
+**UNC Chapel Hill**
+
+M.S. Statistics 2022
+B.S. Statistics 2020
