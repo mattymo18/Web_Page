@@ -16,11 +16,6 @@ advanced:
   css_class: fullscreen
 ---
 
-**Data Scientist**
-
-Johns Hopkins University Applied Physics Laboratory 
+**Data Scientist at the Johns Hopkins University Applied Physics Laboratory**
 
 **UNC Chapel Hill**
-
-M.S. Statistics 2022 <br/>
-B.S. Statistics 2020
