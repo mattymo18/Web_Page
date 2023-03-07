@@ -41,7 +41,7 @@ title: Matt Johnson
 
 I completed my M.S. (2022) and B.S. (2020) in Statistics at the University of North Carolina at Chapel Hill.
 
-I currently work at the Johns Hopkins University Applied Physics Laboratory. I use R, Python, and MATLAB to build models and graphics designed to assist with strategic communication between data scientists and people outside the field.
+I currently work at the Johns Hopkins University Applied Physics Laboratory. I use R, Python, and MATLAB to build models and graphics designed to assist with strategic communication between data scientists and stakeholders.
 
 I have a passion for Sports Analytics especially in the NFL. I participated in the 2022 NFL Big Data Bowl and developed new metrics to assess player contribution during punts. 
 
